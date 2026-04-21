@@ -1,6 +1,6 @@
 # All Restaurants in North Charleston, South Carolina, US
 
-> Free BeamStation sample export with 50 rows and masked direct-contact fields.
+> Free BeamStation sample export with 64 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `441984` |
 | Location | North Charleston |
 | Category | Restaurants |
-| Full dataset size | 505 records |
-| Free sample size | 50 records (9.9%) |
-| Last export | 2026-04-14T10:07:13.593383+00:00 |
+| Full dataset size | 641 records |
+| Free sample size | 64 records (9.98%) |
+| Last export | 2026-04-21T10:07:51.590303+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-north-charleston-south-carolina-us-sample-441984/releases/download/sample-latest/beamstation_441984_restaurants-us-sc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
